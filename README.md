@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hey, I'm Brandon Bachynski! ✌
+
+I'm a Full Stack Developer from Canada. Mainly C# and React/Typescript.
 
 
+### What I'm working on/ What I'm learning
 
-
-![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schoolboybru)
-
+* GatsbyJs - Portfolio site. 
+* Go
