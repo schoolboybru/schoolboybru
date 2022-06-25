@@ -5,6 +5,6 @@ I'm a Full Stack Developer from Canada. Mainly C#, React/Typescript and Go. I've
 ### What I'm working on/ What I'm interested in learning more about
 
 * gRPC 
-* Terraform
+* IaC
 * K8s
 * Docker
