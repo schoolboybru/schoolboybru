@@ -7,6 +7,7 @@ I'm a Full Stack Developer from Canada. Mainly Go, C#, and React/Typescript. Neo
 * All things Go
 * Keeping up to date with FE/React world
 * Distributed Systems
+* Data Engineering
 * Rust
 
 ### Non software hobbies include
