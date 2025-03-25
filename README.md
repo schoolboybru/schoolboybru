@@ -1,14 +1,14 @@
 ## Hey, I'm Brandon Bachynski! ✌
 
-I'm a Full Stack Developer from Canada. Mainly Go, C#, and React/Typescript. Neovim enjoyer. [@schoolboybru](https://twitter.com/schoolboybru)
+I'm a Full Stack Developer from Canada. Mainly Go, React/Typescript and some Elixir. Neovim enjoyer. [@schoolboybru](https://twitter.com/schoolboybru)
 
 ### What I'm working on/ What I'm interested in learning more about
 
 * All things Go
-* Keeping up to date with FE/React world
+* CLI tooling
+* Elixir
+* Functional Programming
 * Distributed Systems
-* Data Engineering
-* Rust
 
 ### Non software hobbies include
  * skateboarding
